@@ -1,4 +1,7 @@
 # simpleCalc
+
+!UPDATE!
+CalcRevised is the new calculator that should be more efficient and less bugs.
 Simple Calculator program using C++
 So basically i wrote this whole code in 8 hours. 
 I did not watch any tutorials the only one i did was when i was finished and i was checking
